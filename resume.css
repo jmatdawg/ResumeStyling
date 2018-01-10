@@ -1,0 +1,92 @@
+
+
+    
+    ul {
+    list-style-type: none;
+    margin: 0;
+    padding-bottom: 50px;
+    
+}
+li {
+    float: right;
+}
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    margin-left: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.logobox {
+    width: 130px;
+    padding: 10px;
+    border: 2px solid black;
+    color: rgb(235, 134, 66);
+    font-weight: bold;
+    font-size: smaller;
+    text-align: center;
+}  
+img.lauryn {
+    height: 530px;
+    width: 720px
+    
+}
+
+.fonts {
+    position: relative;
+    left:25em;
+    bottom:10em;
+}
+
+h1.designer {
+    font-size: 6em;   
+}
+h2.currently {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em
+
+}
+.Hello {
+    background-color: rgb(207, 207, 207);
+    width: 1000px;
+    height: 400px;
+  
+}
+.name {
+    margin-left: 50px;
+    
+    
+}
+
+p.random {
+    border: 2px solid black;
+    background-color: white;
+    width: 500px;
+    height: 300px;
+    vertical-align: middle;
+    float: right;
+    padding: 10px;
+    margin-right:50px;
+
+
+}
+.random4 {
+    display: grid;
+    grid-template-columns: 100px 200px 300px;
+}
+h3.leapright{
+    float: right;
+}
+h3 { 
+    border-bottom: 1px solid black;
+}
+
+h1.primary-color {
+    color: rgb(235, 134, 66);
+}
+
+.section-padding  {
+    padding: 3em 5em;
+}
