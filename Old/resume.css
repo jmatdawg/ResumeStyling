@@ -1,0 +1,61 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding-bottom: 50px; }
+
+header nav ul {
+  float: right; }
+
+.logobox {
+  padding: 10px;
+  border: 2px solid black;
+  color: #eb8642;
+  height: 50px; }
+
+.max {
+  max-width: 54%; }
+
+img.lauryn {
+  height: 245px;
+  width: 200px; }
+
+.name {
+  position: relative;
+  left: 8em;
+  bottom: 4em; }
+
+h1.designer {
+  font-size: 3em; }
+
+h2.currently {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem; }
+
+.Hello {
+  background-color: whitesmoke;
+  width: 1000px;
+  height: 335px;
+  margin-top: -3%; }
+
+.random {
+  border: 2px solid black;
+  background-color: white;
+  margin-right: 5em; }
+
+.random4 {
+  display: grid;
+  grid-template-columns: 100px 200px 300px; }
+
+h3.leapright {
+  float: right; }
+
+h1.orange {
+  color: #eb8642; }
+
+.section-padding {
+  padding: 3em 5em; }
+
+h1.bigger {
+  font-size: 3.5em; }
+
+/*# sourceMappingURL=resume.css.map */
